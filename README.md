@@ -16,4 +16,3 @@ The goal here is to predict whether the customer would end up with shopping afte
 First, we get different types of classification models, which helps us gain a deep understanding of different machine learning techniques. Second, after implementing classification tasks, we gain the knowledge of how to measure the possibility of customers choosing to shop online considering their behavior on the website. Based on the classification model, we could get to know how much these behaviors contribute to their intentions to purchase. We could offer some suggestions about how shopping stores could design their online shopping website based on the conclusions we get. 
 
 
-![image](https://user-images.githubusercontent.com/92402940/142885163-1b66c6e4-3ac2-4e49-8af2-884b2a93bad8.png)
