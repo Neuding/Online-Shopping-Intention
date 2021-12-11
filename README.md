@@ -1,4 +1,3 @@
-# IE7374-project
 # Project Goal
 
 The increase in e-commerce usage over the past few years has created potential in the market, but the fact that the conversion rates have not increased at the same rate and how to improve the conversion rate is the problem faced by all e-commerce, which leads to the need for solutions that present customized promotions to the online shoppers. Here we use several machine learning methods to try to predetermine the classification of online consumers' purchasing intendencies.
